@@ -6,5 +6,5 @@ Generates bundle via webpack, while pulling in the ESRI JSAPI and dojo via CDN.
 
 ```
 npm install
-webpack
+npm run bundle
 ```
