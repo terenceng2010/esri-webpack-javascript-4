@@ -1,6 +1,6 @@
-esri-webpack-javascript
+esri-webpack-javascript-4
 ==========================
-ESRI JSAPI 3.19 with Webpack demo, using javascript. adapted from lobsteropteryx/esri-webpack-typescript
+ESRI JSAPI 4.2 with Webpack demo, using javascript. adapted from lobsteropteryx/esri-webpack-typescript
 
 Generates bundle via webpack, while pulling in the ESRI JSAPI and dojo via CDN.
 
