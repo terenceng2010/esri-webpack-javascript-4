@@ -4,7 +4,6 @@ module.exports = {
     output: {
         path: __dirname,
         filename: "bundle.js",
-        publicPath: './',
         libraryTarget: "amd"
     },
     resolve: {
@@ -27,5 +26,6 @@ module.exports = {
             callback();
         }
    ],
-devtool: 'source-map'
+devtool: 'source-map',
+devServer: { inline: true }
 };
