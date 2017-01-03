@@ -2,7 +2,7 @@ const Map = require("esri/Map");
 const MapView = require("esri/views/MapView");
 
 var map = new Map({
-    basemap: "streets"
+    basemap: "topo"
 });
 
 var view = new MapView({
